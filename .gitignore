@@ -5,8 +5,8 @@
 [Bb]uilds/
 [Ll]ogs/
 [Pp]ackages/
-
 Assets/AssetStoreTools*
+Assets/Gizmos/
 
 # Visual Studio cache directory
 .vs/
