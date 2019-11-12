@@ -6,6 +6,8 @@
 [Ll]ogs/
 [Pp]ackages/
 Assets/AssetStoreTools*
+
+# Playmaker
 Assets/Gizmos/
 
 # Visual Studio cache directory
